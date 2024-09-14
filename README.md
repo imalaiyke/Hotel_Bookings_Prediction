@@ -1,9 +1,5 @@
 # 🏨 INNHotels Bookings Cancellation Project 📊
 
-### 📁 Files in the project:
-1. `INNHotels_Bookings_Cancelation_Project.ipynb`
-
-### 🔍 About the project:
 Analyzed hotel booking data to identify factors influencing cancellations. Developed a predictive model to foresee cancellations, enabling the formulation of profitable policies for managing cancellations and refunds. 📉💼
 
 ---
